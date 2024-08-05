@@ -25,7 +25,6 @@ to the "A). Enter what you would like to name the output file, and it should mat
 
 4. Author: Written by Piper Ideker
 
-5. What I learned/What I'd do differently: I did this project before I took any algorithms class, and I now understand that
-this is very inefficient with a big-O of O(n [Lines] * L [length of lines]) for writeFile, Main.java and toHistogram.java
-I also think I could have been better organized in terms of running in one place instead of having to run
-and rename files.
+5. What I learned/What I'd do differently: I like that I actually created the application and didn't just run everything in the ide's like the other two projects. Looking back I think it was a good programming excerise to
+look for the input file on the desktop, but in a real world setting I'm not entirely sure if it would be useful. If I'd do this again, I think it'd be less constrictive of the user to open File Explorer for them to navigate
+to the input file instead.
